@@ -12,18 +12,21 @@ If you want to learn more about me and what I do, you can contact me at: <neolig
 - GraphQL.
 - Django.
 - Docker.
-- Vim.
+- Rust.
+
+### My development environment
+Pop! OS, Tmux + NeoVim with CoC and a lot of other plugins. I don't enjoy working on IDEs.
 
 ### Some of the things I like 💝
 - Software development 💻
-- Open Source 📖
+- Free and Open Source Software 📖
 - Reading 📘
 - Playing the piano 🎹
 - Making music 💿
 
 ### Some of the things I don't like 😞
 - Unorganized code 👎
-- Cheese 🧀
+- Software not repecting privacy 🔓
 - Unwillingness to learn 🚫
 
 <!--
