@@ -3,6 +3,9 @@ Hi! I'm Anthony Suárez, aka NeoLight. I'm a software developer who loves learni
 
 If you want to learn more about me and what I do, you can contact me at: <neolight1010@gmail.com>
 
+### Social
+- [LinkedIn](https://www.linkedin.com/in/neolight1010/)
+
 ### My main programming languages 🔡
 - Python
 - Javascript/Typescript
