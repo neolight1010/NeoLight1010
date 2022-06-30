@@ -29,7 +29,7 @@ Pop! OS, Tmux + NeoVim with CoC and a lot of other plugins. I don't enjoy workin
 
 ### Some of the things I don't like 😞
 - Unorganized code 👎
-- Software not repecting privacy 🔓
+- Software not respecting privacy 🔓
 - Unwillingness to learn 🚫
 
 <!--
