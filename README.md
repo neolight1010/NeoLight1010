@@ -5,6 +5,7 @@ If you want to learn more about me and what I do, you can contact me at: <neolig
 
 ### Social
 - [LinkedIn](https://www.linkedin.com/in/neolight1010/)
+- [Twitter](https://twitter.com/NeoLight1010)
 
 ### My main programming languages 🔡
 - Python
