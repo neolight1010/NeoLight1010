@@ -1,7 +1,16 @@
 ### Hi! 👋
-Hi! I'm Anthony Suárez, aka NeoLight. I'm a software developer who loves learning and creating. I am always open to learning new techologies and to collaborate in open-source projects.
+Hi! I'm Anthony Suárez, aka *NeoLight*. I'm a software developer who loves learning and creating. I am always open to working with new techologies and to collaborate on open-source projects.
+
+I always strive to create reliable, high-quality software with modern tools and technologies.
 
 If you want to learn more about me and what I do, you can contact me at: <neolight1010@gmail.com>
+
+### Currently working on:
+
+- My main job.
+- NeoReddit: Reddit clone using Typescript, GraphQL and NextJS.
+- PO.fun: Site to share your favorit PO-33 samples and packs. Build with Django.
+- Hacktoberfest! :tada:
 
 ### Social
 - [LinkedIn](https://www.linkedin.com/in/neolight1010/)
@@ -9,7 +18,7 @@ If you want to learn more about me and what I do, you can contact me at: <neolig
 
 ### My main programming languages 🔡
 - Python
-- Javascript/Typescript
+- Typescript
 
 ### Some of my skills
 - Full Stack Development (backend focused).
@@ -17,33 +26,15 @@ If you want to learn more about me and what I do, you can contact me at: <neolig
 - Django.
 - Docker.
 - Rust.
+- Learning fast.
 
 ### My development environment
-Pop! OS, Tmux + NeoVim with CoC and a lot of other plugins. I don't enjoy working on IDEs.
+Pop! OS, Tmux + NeoVim with CoC and a lot of other plugins.
 
 ### Some of the things I like 💝
 - Software development 💻
 - Free and Open Source Software 📖
+- Type safety!
 - Reading 📘
 - Playing the piano 🎹
 - Making music 💿
-
-### Some of the things I don't like 😞
-- Unorganized code 👎
-- Software not respecting privacy 🔓
-- Unwillingness to learn 🚫
-
-<!--
-**NeoLight1010/NeoLight1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
