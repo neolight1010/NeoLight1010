@@ -5,6 +5,8 @@ I always strive to create reliable, high-quality software with modern tools and 
 
 If you want to learn more about me and what I do, you can contact me at: <neolight1010@gmail.com>
 
+[![@neolight1010's Holopin board](https://holopin.io/api/user/board?user=neolight1010)](https://holopin.io/@neolight1010)
+
 ### Currently working on:
 
 - My main job.
