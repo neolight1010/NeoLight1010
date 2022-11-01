@@ -12,7 +12,6 @@ If you want to learn more about me and what I do, you can contact me at: <neolig
 - My main job.
 - NeoReddit: Reddit clone using Typescript, GraphQL and NextJS.
 - PO.fun: Site to share your favorit PO-33 samples and packs. Build with Django.
-- Hacktoberfest! :tada:
 
 ### Social
 - [LinkedIn](https://www.linkedin.com/in/neolight1010/)
