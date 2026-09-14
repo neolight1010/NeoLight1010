@@ -39,6 +39,15 @@ If you want to learn more about me and what I do, you can contact me at: <neolig
 - [i3](https://i3wm.org/)
 - [WezTerm](https://wezterm.org/index.html)
 
+### Some of my favorite engineering books
+
+- Richard Hamming - [The Art of Doing Science and Engineering](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering)
+- Kent Beck - [Test Driven Development: By Example](https://archive.org/details/est-driven-development-by-example/test-driven-development-by-example/)
+- Eric Evans - [Domain Driven Design](https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf)
+- Robert C. Martin - [Clean Code](https://www.amazon.com/dp/B0FX3CJGFX?lv=shuf&channelId=500&plpRedirect=mhFallback)
+- Steve McConnell - [Code Complete, 2nd Edition](https://en.wikipedia.org/wiki/Code_Complete)
+- [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) (still reading it!)
+
 ### Some of the things I like
 
 - Software engineering
